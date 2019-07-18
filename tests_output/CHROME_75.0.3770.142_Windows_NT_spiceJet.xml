@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="spiceJet"
+    errors="0" failures="0" hostname="" id="" package="spiceJet" skipped="0"
+    tests="2" time="79.35" timestamp="">
+  
+    <testcase name="test1" classname="spiceJet" time="32.19" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="test2" classname="spiceJet" time="47.16" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
